@@ -1,1 +1,1 @@
-<?php echo "Learn Git"; ?>
+<h1><?php echo "Learn GitHub"; ?></h1>
